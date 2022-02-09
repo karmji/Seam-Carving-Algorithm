@@ -1,4 +1,4 @@
-# seam-carving-algorithm
+# Seam Carving Algorithm
 Developed an algorithm to find the best seam to remove from a certain image in order to compress the image without losing primary characteristics.
 
 # What I Learned
